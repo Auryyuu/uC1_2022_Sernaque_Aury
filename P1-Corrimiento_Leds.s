@@ -8,7 +8,7 @@
 ;--------------------------------
     
 PROCESSOR 18F57Q84
-#include "config.inc"  // config statements should precede project file includes.
+#include "P1-Corrimiento_Leds_config"  // config statements should precede project file includes.
 #include <xc.inc>  
 
 PSECT resetVect,class=CODE,reloc=2
