@@ -15,7 +15,7 @@
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
-#Practicas:
+# Practicas:
 - **TE1_Libreria para implementacion de retardos**
 - **TE2_Practica de Puertos:**
    - P1-Corrimiento_Leds
