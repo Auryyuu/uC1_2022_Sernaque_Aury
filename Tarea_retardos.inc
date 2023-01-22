@@ -1,6 +1,6 @@
 ;--------------------------------
     ;@file    Tarea_retardos.inc
-    ;@brief   Libreria que contiene retardos para una implementación 
+    ;@brief   Libreria que contiene retardos para una implementacion 
     ;@date    09/01/2023
     ;@author  Aury Janirey Sernaque Seminario
     ;Nota:Frecuencia = 4MHz y TCY = 1us
