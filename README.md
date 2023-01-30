@@ -21,5 +21,6 @@ UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 - **TE2_Practica de Puertos:**
    - P1-Corrimiento_Leds
    - P2-Display_7SEG
- 
+ - **Parcial_2:**
+   - Ejemplo_2
 
