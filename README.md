@@ -1,6 +1,7 @@
 # uC1_2022_Sernaque_Aury
 
-> **Descripcion:** El siguiente repositorio sera usado para trabajar y desarrollar el curso de Microcontroladores 1, aqui se subiran las practicas y archivos solicitados por el docente.
+> El presente repositorio sera usado para trabajar y desarrollar el curso de Microcontroladores 1, aqui se subiran las evaluaciones y archivos solicitados por el docente.
+
 **Curso**: Microcontroladores I
 
 **Autor**: Aury Janirey Sernaque Seminario
